@@ -1,6 +1,6 @@
 # Microsoft Entra ID Infographic
 
-A comprehensive collection of Microsoft Entra ID resources organized into an interactive web application. This project provides a curated list of documentation, learning materials, and best practices for Microsoft Entra ID (formerly Azure Active Directory).
+A comprehensive collection of Microsoft Entra ID resources organized into an interactive web application. This project provides a curated list of documentation, learning materials, and best practices for Microsoft Entra ID.
 
 <img width="1301" alt="infographic" src="https://github.com/user-attachments/assets/14ffd17d-b412-49ac-b843-786e3598013b" />
 
